@@ -1,0 +1,64 @@
+# 사진 출처
+
+지도 장소 사진 중 아래는 Wikimedia Commons 사진을 잘라 쓴 것이다. 각 라이선스를 따른다.
+
+- `map/Map_D_aqua_park_shinagawa.webp` — Dick Thomas Johnson from Tokyo, Japan · CC BY 2.0
+- `map/Map_D_arakawa_nature_park.webp` — Abasaa · Public domain
+- `map/Map_D_asukayama_park.webp` — Syced · CC0
+- `map/Map_D_chidogafuchi.webp` — 663highland · CC BY 2.5
+- `map/Map_D_ebisu_garden_place.webp` — Syced · CC0
+- `map/Map_D_futakotamagawa_park.webp` — Indiana jo · CC BY-SA 4.0
+- `map/Map_D_ginza_six_garden.webp` — Wpcpey · CC BY-SA 4.0
+- `map/Map_D_haneda_observation_deck.webp` — JobanLineE531 (TC411-507) · CC BY-SA 3.0
+- `map/Map_D_itabashi_botanical_garden.webp` — 妖精書士 · CC0
+- `map/Map_D_kasai_rinkai_park.webp` — Yoshikazu TAKADA from Tokyo, Japan · CC BY 2.0
+- `map/Map_D_koishikawa_korakuen.webp` — Renehaas · CC BY-SA 4.0
+- `map/Map_D_meguro_river_walk.webp` — Doricono · CC BY-SA 4.0
+- `map/Map_D_mizumoto_park.webp` — Los688 · Public domain
+- `map/Map_D_nakano_central_park.webp` — 掬茶 · CC BY-SA 3.0
+- `map/Map_D_odaiba_marine_park.webp` — Dick Thomas Johnson · CC BY 2.0
+- `map/Map_D_shakujii_park.webp` — Ribbon · CC BY-SA 3.0
+- `map/Map_D_shinjuku_gyoen.webp` — Basile Morin · CC BY-SA 4.0
+- `map/Map_D_shinobazu_pond.webp` — Daderot · CC0
+- `map/Map_D_sunshine_aquarium.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_D_tokyo_skytree.webp` — Pinterpandai.com · CC BY-SA 4.0
+- `map/Map_D_toneri_park.webp` — Nyao148 at Japanese Wikipedia · CC BY-SA 3.0
+- `map/Map_D_toyosu_gururi_park.webp` — Souka Kinmei · CC BY 4.0
+- `map/Map_D_zenpukuji_park.webp` — Daderot · CC0
+- `map/Map_P_akihabara.webp` — Jakub Hałun · CC BY 4.0
+- `map/Map_P_hibiya.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_P_iidabashi.webp` — Daderot · CC0
+- `map/Map_P_jimbocho.webp` — Nick-D · CC BY-SA 3.0
+- `map/Map_P_kasumigaseki.webp` — Comessu · CC BY-SA 4.0
+- `map/Map_P_kitanomaru.webp` — Nesnad · CC BY 4.0
+- `map/Map_P_kojimachi.webp` — Asanagi · CC0
+- `map/Map_P_kokyo.webp` — Chris 73 · CC BY-SA 3.0
+- `map/Map_P_marunouchi.webp` — Daderot · CC0
+- `map/Map_P_nagatacho.webp` — Wiiii · CC BY-SA 3.0
+- `map/Map_P_otemachi.webp` — Денис Гришкин · CC BY 4.0
+- `map/Map_P_yurakucho.webp` — Fabio Achilli from Milano, Italy · CC BY 2.0
+- `map/Map_W_adachi.webp` — Nyao148 at Japanese Wikipedia · CC BY-SA 3.0
+- `map/Map_W_arakawa.webp` — ↑ＰＯＮ · CC BY-SA 3.0
+- `map/Map_W_bunkyo.webp` — Kakidai · CC BY-SA 4.0
+- `map/Map_W_chiyoda.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_W_chuo.webp` — 663highland · CC BY-SA 4.0
+- `map/Map_W_edogawa.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_W_itabashi.webp` — MaedaAkihiko · CC BY-SA 4.0
+- `map/Map_W_katsushika.webp` — Los688 · Public domain
+- `map/Map_W_kita.webp` — nakashi from Chofu, Tokyo, JAPAN · CC BY-SA 2.0
+- `map/Map_W_koto.webp` — Carlquist, Sherwin John, 1930-2021 · CC BY 4.0
+- `map/Map_W_meguro.webp` — Ajay Suresh from New York, NY, USA · CC BY 2.0
+- `map/Map_W_minato.webp` — Syced · CC0
+- `map/Map_W_nakano.webp` — Asanagi · CC0
+- `map/Map_W_nerima.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_W_ota.webp` — Nesnad · CC BY 4.0
+- `map/Map_W_setagaya.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_W_shibuya.webp` — David Kernan · CC BY 4.0
+- `map/Map_W_shinagawa.webp` — Kentin · CC BY-SA 3.0
+- `map/Map_W_shinjuku.webp` — Prota · CC0
+- `map/Map_W_suginami.webp` — Kentin · CC BY-SA 3.0
+- `map/Map_W_sumida.webp` — Basile Morin · CC BY-SA 4.0
+- `map/Map_W_taito.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+- `map/Map_W_toshima.webp` — Guilhem Vellut from Annecy, France · CC BY 2.0
+
+그 밖의 사진(hq/, thumb/, profile/, 출처 없는 map/)은 AI 생성 설정 이미지다.
