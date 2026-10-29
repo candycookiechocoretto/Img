@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "bgmRevision": "d1eb1836a20ae53b40056e2a89a2a0bc1e8b340c",
+  "cg": [],
+  "cons": {},
+  "bgm": [
+    {
+      "code": "66",
+      "file": "66_로파이_시사의_곁에서_(키얀_우미).mp3",
+      "category": "g_lofi",
+      "title": {
+        "kr": "시사의 곁에서",
+        "ja": "シーサーのそばで",
+        "en": "Beside the Shisa",
+        "zh": "在西薩身旁",
+        "zhcn": "在西萨身旁"
+      },
+      "subtitle": {
+        "kr": "키얀 우미",
+        "ja": "喜屋武海",
+        "en": "Umi Kiyan",
+        "zh": "喜屋武海",
+        "zhcn": "喜屋武海"
+      }
+    },
+    {
+      "code": "67",
+      "file": "67_로파이_하루_끝의_쉼표_(미나세_리오).mp3",
+      "category": "g_lofi",
+      "title": {
+        "kr": "하루 끝의 쉼표",
+        "ja": "一日の終わりの休符",
+        "en": "A Rest at Day's End",
+        "zh": "一天結束時的休止符",
+        "zhcn": "一天结束时的休止符"
+      },
+      "subtitle": {
+        "kr": "미나세 리오",
+        "ja": "水瀬莉央",
+        "en": "Rio Minase",
+        "zh": "水瀨莉央",
+        "zhcn": "水濑莉央"
+      }
+    },
+    {
+      "code": "68",
+      "file": "68_로파이_일_사이의_조용한_시간_(오카다_고로).mp3",
+      "category": "g_lofi",
+      "title": {
+        "kr": "일 사이의 조용한 시간",
+        "ja": "仕事の合間の静かな時間",
+        "en": "Quiet Time Between Jobs",
+        "zh": "工作之間的安靜時光",
+        "zhcn": "工作之间的安静时光"
+      },
+      "subtitle": {
+        "kr": "오카다 고로",
+        "ja": "岡田吾郎",
+        "en": "Goro Okada",
+        "zh": "岡田吾郎",
+        "zhcn": "冈田吾郎"
+      }
+    },
+    {
+      "code": "69",
+      "file": "69_로파이_남겨_둔_샌드위치_(강다은).mp3",
+      "category": "g_lofi",
+      "title": {
+        "kr": "남겨 둔 샌드위치",
+        "ja": "取っておいたサンドイッチ",
+        "en": "The Sandwich Set Aside",
+        "zh": "留下來的三明治",
+        "zhcn": "留下来的三明治"
+      },
+      "subtitle": {
+        "kr": "강다은",
+        "ja": "姜多恩",
+        "en": "Kang Da-eun",
+        "zh": "姜多恩",
+        "zhcn": "姜多恩"
+      }
+    },
+    {
+      "code": "70",
+      "file": "70_시티팝_빛이_꺼지기_전까지_(도이_하루카).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "빛이 꺼지기 전까지",
+        "ja": "光が消えるまで",
+        "en": "Until the Light Goes Out",
+        "zh": "直到光熄滅之前",
+        "zhcn": "直到光熄灭之前"
+      },
+      "subtitle": {
+        "kr": "도이 하루카",
+        "ja": "土井遥",
+        "en": "Haruka Doi",
+        "zh": "土井遙",
+        "zhcn": "土井遥"
+      }
+    },
+    {
+      "code": "71",
+      "file": "71_시티팝_식탁의_주인_(쿠제_시노).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "식탁의 주인",
+        "ja": "食卓の主",
+        "en": "Master of the Table",
+        "zh": "餐桌的主人",
+        "zhcn": "餐桌的主人"
+      },
+      "subtitle": {
+        "kr": "쿠제 시노",
+        "ja": "久世志乃",
+        "en": "Shino Kuze",
+        "zh": "久世志乃",
+        "zhcn": "久世志乃"
+      }
+    },
+    {
+      "code": "72",
+      "file": "72_시티팝_훈련_뒤의_과자_내기_(린징야오).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "훈련 뒤의 과자 내기",
+        "ja": "訓練後のお菓子賭け",
+        "en": "Snack Bets After Training",
+        "zh": "訓練後的零食賭局",
+        "zhcn": "训练后的零食赌局"
+      },
+      "subtitle": {
+        "kr": "린징야오",
+        "ja": "林景曜",
+        "en": "Lin Jingyao",
+        "zh": "林景曜",
+        "zhcn": "林景曜"
+      }
+    },
+    {
+      "code": "73",
+      "file": "73_시티팝_나하의_햇빛_(오키나와_나하).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "나하의 햇빛",
+        "ja": "那覇の陽ざし",
+        "en": "Naha Sunlight",
+        "zh": "那霸的陽光",
+        "zhcn": "那霸的阳光"
+      },
+      "subtitle": {
+        "kr": "오키나와 나하",
+        "ja": "沖縄・那覇",
+        "en": "Naha, Okinawa",
+        "zh": "沖繩那霸",
+        "zhcn": "冲绳那霸"
+      }
+    },
+    {
+      "code": "74",
+      "file": "74_시티팝_부산으로_들어오는_배_(부산).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "부산으로 들어오는 배",
+        "ja": "釜山に入る船",
+        "en": "Ships Coming into Busan",
+        "zh": "駛入釜山的船",
+        "zhcn": "驶入釜山的船"
+      },
+      "subtitle": {
+        "kr": "부산",
+        "ja": "釜山",
+        "en": "Busan",
+        "zh": "釜山",
+        "zhcn": "釜山"
+      }
+    },
+    {
+      "code": "75",
+      "file": "75_시티팝_시합_전의_인사_(국가대항전).mp3",
+      "category": "g_citypop",
+      "title": {
+        "kr": "시합 전의 인사",
+        "ja": "試合前の挨拶",
+        "en": "Greetings Before the Match",
+        "zh": "比賽前的問候",
+        "zhcn": "比赛前的问候"
+      },
+      "subtitle": {
+        "kr": "국가대항전",
+        "ja": "国家対抗戦",
+        "en": "International Match",
+        "zh": "國家對抗賽",
+        "zhcn": "国家对抗赛"
+      }
+    }
+  ]
+}
