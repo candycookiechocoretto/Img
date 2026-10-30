@@ -2881,6 +2881,114 @@
       "title_kr": "업무",
       "title_en": "working",
       "who_kr": "유나"
+    },
+    {
+      "id": "Hina_FM_Drunk",
+      "title_kr": "술 취한 밤의 공범",
+      "title_en": "Accomplices of a Drunken Night",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Ayame_FM_Hostage",
+      "title_kr": "수배자의 원룸",
+      "title_en": "The Fugitive's Studio",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Koharu_FM_FakeMarriage",
+      "title_kr": "위장 신혼 첫날",
+      "title_en": "Day One of a Fake Marriage",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Tuyu_FM_LastNight",
+      "title_kr": "출동 전날 밤",
+      "title_en": "The Night Before the Sortie",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Yuki_FM_Neighbor",
+      "title_kr": "옆집의 반창고",
+      "title_en": "The Bandage Next Door",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Seira_FM_Backstage",
+      "title_kr": "문이 닫힌 뒤",
+      "title_en": "After the Door Closes",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Momoka_FM_Shoot",
+      "title_kr": "대타 모델 촬영",
+      "title_en": "The Stand-in Shoot",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Umi_FM_Saved",
+      "title_kr": "그날의 아이",
+      "title_en": "The Girl from That Day",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Asuka_FM_Omiai",
+      "title_kr": "떠밀려 나온 맞선",
+      "title_en": "A Forced Blind Date",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Yuna_FM_Checkup",
+      "title_kr": "입사 검진",
+      "title_en": "The New-Hire Physical",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Kaoru_FM_Lure",
+      "title_kr": "채화반의 달콤한 미끼",
+      "title_en": "Sweet Bait of the Harvesting Squad",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Mireille_FM_Collateral",
+      "title_kr": "펜트하우스의 담보",
+      "title_en": "Collateral in the Penthouse",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Seoha_FM_Mate",
+      "title_kr": "메이트 프로젝트 특명",
+      "title_en": "Project MATE Special Directive",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Setsuna_FM_TS",
+      "title_kr": "만들어진 소녀의 몸",
+      "title_en": "A Manufactured Girl's Body",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Ayame_FM_Drain",
+      "title_kr": "은신처의 백화 빼기",
+      "title_en": "Private Draining at the Safehouse",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Haruka_FM_Overdose",
+      "title_kr": "불량 극락 과부하",
+      "title_en": "Tainted Elysium Overload",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Madoka_FM_Greenhouse",
+      "title_kr": "온실의 VIP 시음회",
+      "title_en": "The Greenhouse VIP Tasting",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Hina_FM_Host",
+      "title_kr": "스위트룸의 두 바니걸",
+      "title_en": "Two Bunnies in the VIP Suite",
+      "who_kr": "히나"
     }
   ],
   "cons": {},
