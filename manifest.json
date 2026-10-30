@@ -1,7 +1,2888 @@
 {
   "version": 1,
   "bgmRevision": "d1eb1836a20ae53b40056e2a89a2a0bc1e8b340c",
-  "cg": [],
+  "cg": [
+    {
+      "id": "Asuka_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Asuka_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "아스카"
+    },
+    {
+      "id": "Ayame_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Ayame_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "아야메"
+    },
+    {
+      "id": "Chaei_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chaei_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "채이"
+    },
+    {
+      "id": "Chie_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Chie_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "치에"
+    },
+    {
+      "id": "Daeun_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Daeun_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "다은"
+    },
+    {
+      "id": "Estelle_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Estelle_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "에스텔"
+    },
+    {
+      "id": "Hare_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Hare_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "하레"
+    },
+    {
+      "id": "Harin_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Harin_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "하린"
+    },
+    {
+      "id": "Haruka_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "Haruka_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "하루카"
+    },
+    {
+      "id": "HarukaPast_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "HarukaPast_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "하루카 (과거)"
+    },
+    {
+      "id": "Hina_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Hina_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "히나"
+    },
+    {
+      "id": "Kaoru_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Kaoru_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "카오루"
+    },
+    {
+      "id": "Keisuke_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Keisuke_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "케이스케"
+    },
+    {
+      "id": "Koharu_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Koharu_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "코하루"
+    },
+    {
+      "id": "Madoka_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Madoka_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "마도카"
+    },
+    {
+      "id": "Mei_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mei_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "메이"
+    },
+    {
+      "id": "Mio_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mio_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "미오"
+    },
+    {
+      "id": "Mireille_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Mireille_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "미레유"
+    },
+    {
+      "id": "Momoka_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Momoka_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "모모카"
+    },
+    {
+      "id": "Nao_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Nao_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "나오"
+    },
+    {
+      "id": "Reiko_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reiko_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "레이코"
+    },
+    {
+      "id": "Reina_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Reina_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "레이나"
+    },
+    {
+      "id": "Rio_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Rio_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "리오"
+    },
+    {
+      "id": "Saki_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Saki_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "사키"
+    },
+    {
+      "id": "Sayo_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "사요"
+    },
+    {
+      "id": "Sayo_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "사요"
+    },
+    {
+      "id": "SayoNight_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "SayoNight_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "사요 (밤)"
+    },
+    {
+      "id": "Seira_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seira_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "세이라"
+    },
+    {
+      "id": "Seoha_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoha_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "서하"
+    },
+    {
+      "id": "Seoyun_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Seoyun_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "서윤"
+    },
+    {
+      "id": "Setsuna_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Setsuna_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "세츠나"
+    },
+    {
+      "id": "Shino_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shino_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "시노"
+    },
+    {
+      "id": "Shiori_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shiori_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "시오리"
+    },
+    {
+      "id": "Shizune_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shizune_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "시즈네"
+    },
+    {
+      "id": "Shuji_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Shuji_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "슈지"
+    },
+    {
+      "id": "Sumire_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Sumire_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "스미레"
+    },
+    {
+      "id": "Toko_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Toko_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "토코"
+    },
+    {
+      "id": "Tuyu_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Tuyu_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "츠유"
+    },
+    {
+      "id": "Umi_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Umi_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "우미"
+    },
+    {
+      "id": "Yuki_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuki_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "유키"
+    },
+    {
+      "id": "Yuna_Casual_Date",
+      "title_kr": "일상 데이트",
+      "title_en": "a casual date",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Confess",
+      "title_kr": "고백",
+      "title_en": "a confession",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Cry",
+      "title_kr": "눈물",
+      "title_en": "crying",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Elysium",
+      "title_kr": "극락",
+      "title_en": "Elysium",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_HandHold",
+      "title_kr": "손잡기",
+      "title_en": "holding hands",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Meal",
+      "title_kr": "식사",
+      "title_en": "a meal",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Morning",
+      "title_kr": "아침",
+      "title_en": "a morning scene",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Phone",
+      "title_kr": "전화",
+      "title_en": "using a phone",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Rain",
+      "title_kr": "비",
+      "title_en": "a rainy scene",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Sleep",
+      "title_kr": "잠",
+      "title_en": "sleeping",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Treatment",
+      "title_kr": "치료",
+      "title_en": "receiving treatment",
+      "who_kr": "유나"
+    },
+    {
+      "id": "Yuna_Work",
+      "title_kr": "업무",
+      "title_en": "working",
+      "who_kr": "유나"
+    }
+  ],
   "cons": {},
   "bgm": [
     {
